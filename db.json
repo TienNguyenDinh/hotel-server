@@ -9,7 +9,7 @@
         "Air Conditioning"
       ],
       "description": "Spacious single room with a breathtaking view of the city, equipped with modern amenities.",
-      "roomType": "single",
+      "type": "single",
       "isAvailable": true,
       "imageUrl": "",
       "id": "1"
@@ -22,7 +22,7 @@
         "TV"
       ],
       "description": "A cozy and quiet double room with a comfortable bed and a high-definition television.",
-      "roomType": "double",
+      "type": "double",
       "isAvailable": false,
       "imageUrl": "",
       "id": "2"
@@ -36,7 +36,7 @@
         "Balcony"
       ],
       "description": "Elegant room with a private balcony to enjoy the sunset, fully furnished for a perfect holiday stay.",
-      "roomType": "single",
+      "type": "single",
       "isAvailable": true,
       "imageUrl": ""
     },
@@ -50,7 +50,7 @@
         "King-sized Bed"
       ],
       "description": "Luxury double room with a jacuzzi to relax in after a day of exploring, featuring a king-sized bed and premium bedding.",
-      "roomType": "double",
+      "type": "double",
       "isAvailable": true,
       "imageUrl": ""
     },
@@ -59,7 +59,7 @@
       "price": 130,
       "amenities": [],
       "description": "Affordable single room with essential amenities, ideal for travelers looking for value and comfort.",
-      "roomType": "single",
+      "type": "single",
       "isAvailable": "false",
       "imageUrl": "",
       "id": "5"
@@ -75,7 +75,7 @@
         "Ocean View"
       ],
       "description": "Luxurious double room with a panoramic ocean view, a mini-fridge stocked with premium beverages.",
-      "roomType": "double",
+      "type": "double",
       "isAvailable": true,
       "imageUrl": ""
     },
@@ -88,7 +88,7 @@
         "Ensuite Bathroom"
       ],
       "description": "Comfortable single room with a large ensuite bathroom and modern fittings. Perfect for business travelers.",
-      "roomType": "single",
+      "type": "single",
       "isAvailable": false,
       "imageUrl": ""
     },
@@ -102,7 +102,7 @@
         "Work Desk"
       ],
       "description": "An ideal room for work and relaxation, with a dedicated work desk, comfortable chair, and a private balcony.",
-      "roomType": "single",
+      "type": "single",
       "isAvailable": true,
       "imageUrl": ""
     },
@@ -117,7 +117,7 @@
         "Premium Suite"
       ],
       "description": "A top-tier suite with a spa bath, premium entertainment system, and breathtaking views of the skyline.",
-      "roomType": "double",
+      "type": "double",
       "isAvailable": true,
       "imageUrl": ""
     },
@@ -129,7 +129,7 @@
         "Wi-Fi"
       ],
       "description": "Basic double room providing exceptional value without compromising on comfort, ideal for budget-conscious visitors.",
-      "roomType": "double",
+      "type": "double",
       "isAvailable": false,
       "imageUrl": "https://www.mydomaine.com/thmb/Q8DMDt_CTfdaII3paIXt15piprE=/1278x0/filters:no_upscale():strip_icc()/ashleymontgomerydesign-e6d79f1eba034603a3e110a0f2af330c.png"
     },
